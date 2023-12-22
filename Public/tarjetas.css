@@ -1,0 +1,55 @@
+
+.tarjeta1{
+  display:flex;
+ flex-direction: column;
+ justify-content: space-between;
+  width:320px;
+  border: 1px solid lightgray;
+  box-shadow: 2px 2px 8px 4px #d3d3d3d1;
+  border-radius:15px;
+}
+
+.titulo{
+  font-size: 24px;
+  padding: 10px 10px 0 10px;;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.cuerpo{
+  padding: 10px;
+}
+
+.suavitel{
+    width: 300px;
+    height: 300px;
+    display: flex;
+}
+
+.tarjeta2{
+  display: block;
+  flex-direction:column;
+  justify-content:space-between;
+  width:320px;
+  border: 1px solid lightgray;
+  box-shadow: 2px 2px 8px 4px #d3d3d3d1;
+  border-radius:15px;
+}
+
+.titulo2{
+    font-size: 24px;
+  padding: 10px 10px 0 10px;;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cuerpo2{
+    padding: 10px;
+}
+
+.toallas{
+    width: 300px;
+    height: 300px;
+}
+
+
