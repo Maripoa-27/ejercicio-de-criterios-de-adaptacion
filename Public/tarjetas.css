@@ -9,7 +9,7 @@
   border-radius:15px;
 }
 
-.titulo{
+h1{
   font-size: 24px;
   padding: 10px 10px 0 10px;;
   text-align: center;
@@ -52,4 +52,8 @@
     height: 300px;
 }
 
+.tarjetas{
+  display: flex;
+  justify-content:center;
+}
 
